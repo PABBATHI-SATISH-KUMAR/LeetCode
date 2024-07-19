@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0231-power-of-two) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
