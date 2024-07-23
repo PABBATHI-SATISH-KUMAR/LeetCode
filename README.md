@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
