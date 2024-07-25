@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0742-to-lower-case) |
 ## Enumeration
 |  |
 | ------- |
