@@ -39,6 +39,7 @@
 | [0204-count-primes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
