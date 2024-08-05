@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0204-count-primes) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0344-reverse-string) |
@@ -120,6 +122,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
