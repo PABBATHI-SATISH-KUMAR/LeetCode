@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
@@ -123,6 +124,7 @@
 | [0001-two-sum](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -148,4 +150,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
