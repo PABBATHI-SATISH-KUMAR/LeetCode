@@ -16,6 +16,7 @@
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -48,6 +49,7 @@
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -121,6 +123,7 @@
 | [0001-two-sum](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -144,4 +147,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
