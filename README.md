@@ -45,6 +45,7 @@
 | [0283-move-zeroes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
@@ -154,8 +155,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
