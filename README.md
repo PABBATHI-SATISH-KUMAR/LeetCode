@@ -19,6 +19,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +160,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Stack
 |  |
 | ------- |
