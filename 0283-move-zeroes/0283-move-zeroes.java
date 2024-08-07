@@ -8,9 +8,9 @@ class Solution {
                 nonZeroIndex++;
             }
         }
-        for (; nonZeroIndex< n; nonZeroIndex++) {
+        for (; nonZeroIndex< n; nonZeroIndex++) 
             nums[nonZeroIndex] = 0;
-        }
+        
         
         // int j = -1;
         // // Find the first zero element
