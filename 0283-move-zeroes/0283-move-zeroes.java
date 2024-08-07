@@ -7,8 +7,8 @@ class Solution {
                 nonZeroIndex++;
             }
         }
-        for (int i = nonZeroIndex; i < nums.length; i++) {
-            nums[i] = 0;
+        for (; nonZeroIndex< nums.length; nonZeroIndex++) {
+            nums[nonZeroIndex] = 0;
         }
         
         // int j = -1;
