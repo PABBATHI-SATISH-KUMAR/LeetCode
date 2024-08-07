@@ -3,30 +3,30 @@ class Solution {
         char[] digits = Integer.toString(n).toCharArray();
         int len = digits.length;
 
-        // Step 1: Find the pivot point
+        
         int i = len - 2;
         while (i >= 0 && digits[i] >= digits[i + 1]) {
             i--;
         }
 
-        // If no pivot is found, return -1
+        
         if (i == -1) {
             return -1;
         }
 
-        // Step 2: Find the swap point
+        
         int j = len - 1;
         while (digits[j] <= digits[i]) {
             j--;
         }
 
-        // Swap the pivot with swap point
+        
         swap(digits, i, j);
 
-        // Step 3: Reverse the suffix
+       
         reverse(digits, i + 1, len - 1);
 
-        // Convert back to integer and check if it fits in a 32-bit signed integer
+       
         try {
             long result = Long.parseLong(new String(digits));
             return (result <= Integer.MAX_VALUE) ? (int) result : -1;
@@ -47,5 +47,8 @@ class Solution {
             start++;
             end--;
         }
+
+
+    
     }
 }
