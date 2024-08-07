@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
 ## Memoization
 |  |
