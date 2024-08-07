@@ -10,9 +10,7 @@ class Solution {
         for (int i = nonZeroIndex; i < nums.length; i++) {
             nums[i] = 0;
         }
-        for (int num : nums) {
-            System.out.print(num + " ");
-        }
+        
         // int j = -1;
         // // Find the first zero element
         // for (int i = 0; i < nums.length; i++) {
