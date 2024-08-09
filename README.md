@@ -45,6 +45,7 @@
 | [0048-rotate-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -82,6 +84,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
