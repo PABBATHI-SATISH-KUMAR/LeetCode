@@ -1,38 +1,30 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        // Use a set to track distinct maximums
-        Set<Integer> maxSet = new HashSet<>();
+        // Initialize three variables to hold the top three distinct maximums
+        Integer large1 = null;
+        Integer large2 = null;
+        Integer large3 = null;
 
-        int large1 = Integer.MIN_VALUE;
-        int large2 = Integer.MIN_VALUE;
-        int large3 = Integer.MIN_VALUE;
+        for (Integer num : nums) {
+            // Skip if this number is already one of the maximums
+            if (num.equals(large1) || num.equals(large2) || num.equals(large3)) {
+                continue;
+            }
 
-        boolean foundMinValue = false; // Track if Integer.MIN_VALUE is in the array
-
-        for (int num : nums) {
-            if (maxSet.contains(num)) continue; // Skip if already seen this number
-
-            maxSet.add(num); // Add number to set
-
-            if (num == Integer.MIN_VALUE) foundMinValue = true;
-
-            if (num > large1) {
+            // Update the top three maximums
+            if (large1 == null || num > large1) {
                 large3 = large2;
                 large2 = large1;
                 large1 = num;
-            } else if (num > large2) {
+            } else if (large2 == null || num > large2) {
                 large3 = large2;
                 large2 = num;
-            } else if (num > large3) {
+            } else if (large3 == null || num > large3) {
                 large3 = num;
             }
         }
 
-        // Check if we have at least 3 distinct elements
-        if (maxSet.size() >= 3) {
-            return large3;
-        } else {
-            return large1;
-        }
+        // If the third maximum doesn't exist, return the maximum (large1)
+        return large3 == null ? large1 : large3;
     }
 }
