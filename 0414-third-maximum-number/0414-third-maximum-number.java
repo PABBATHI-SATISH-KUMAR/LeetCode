@@ -1,6 +1,3 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
     public int thirdMax(int[] nums) {
         // Use a set to track distinct maximums
