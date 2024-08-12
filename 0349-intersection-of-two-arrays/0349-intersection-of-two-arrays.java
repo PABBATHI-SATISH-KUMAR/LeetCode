@@ -10,13 +10,13 @@ class Solution {
                 intersectionSet.add(num);
             }
         }
-        // int[] ans = new int[intersectionSet.size()];
-        // int index = 0;
-        // for (int num : intersectionSet) {
-        //     ans[index++] = num;
-        // }
+        int[] ans = new int[intersectionSet.size()];
+        int index = 0;
+        for (int num : intersectionSet) {
+            ans[index++] = num;
+        }
         
-        // return ans;
-        return intersectionSet.stream().mapToInt(Integer::intValue).toArray();
+        return ans;
+        // return intersectionSet.stream().mapToInt(Integer::intValue).toArray();
     }
 }
