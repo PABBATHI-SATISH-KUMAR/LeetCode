@@ -75,6 +75,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -143,6 +144,7 @@
 | [0556-next-greater-element-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0742-to-lower-case) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Enumeration
 |  |
