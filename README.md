@@ -73,6 +73,7 @@
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -142,6 +143,7 @@
 | [0054-spiral-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
+| [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0742-to-lower-case) |
+| [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Enumeration
