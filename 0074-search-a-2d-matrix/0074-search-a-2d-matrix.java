@@ -9,5 +9,5 @@ class Solution {
             if(array2D[rowIndex][colIndex]==target)return true;  
         }
     return false;
-    }
+}
 }
