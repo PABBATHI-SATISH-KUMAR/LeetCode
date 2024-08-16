@@ -68,6 +68,7 @@
 | [0485-max-consecutive-ones](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
@@ -227,6 +228,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
