@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -187,6 +188,7 @@
 | [0053-maximum-subarray](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -206,6 +208,7 @@
 | [0013-roman-to-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -270,4 +273,8 @@
 |  |
 | ------- |
 | [1946-minimum-absolute-sum-difference](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
