@@ -19,6 +19,7 @@
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0556-next-greater-element-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0650-2-keys-keyboard](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -190,6 +191,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
+| [0650-2-keys-keyboard](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Memoization
