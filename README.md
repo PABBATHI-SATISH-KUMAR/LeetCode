@@ -21,6 +21,7 @@
 | [0556-next-greater-element-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0650-2-keys-keyboard](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -76,6 +77,7 @@
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
@@ -193,6 +196,7 @@
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Memoization
 |  |
@@ -279,4 +283,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
