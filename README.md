@@ -28,6 +28,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2383-add-two-integers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2383-add-two-integers) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
 | ------- |
