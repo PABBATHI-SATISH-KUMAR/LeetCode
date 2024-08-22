@@ -98,6 +98,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
@@ -174,6 +175,7 @@
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 ## Enumeration
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +246,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1946-minimum-absolute-sum-difference](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
