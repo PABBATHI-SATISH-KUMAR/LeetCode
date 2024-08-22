@@ -1,14 +1,13 @@
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
-        String[][] people = new String[names.length][2];
+        Integer[] indices = new Integer[names.length];
         for (int i = 0; i < names.length; i++) {
-            people[i][0] = names[i];
-            people[i][1] = String.valueOf(heights[i]);
+            indices[i] = i;
         }
-        Arrays.sort(people, (a, b) -> Integer.parseInt(b[1]) - Integer.parseInt(a[1]));
+        Arrays.sort(indices, (a, b) -> heights[b] - heights[a]);
         String[] sortedNames = new String[names.length];
         for (int i = 0; i < names.length; i++) {
-            sortedNames[i] = people[i][0];
+            sortedNames[i] = names[indices[i]];
         }
         
         return sortedNames;
