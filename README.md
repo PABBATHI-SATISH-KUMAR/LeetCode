@@ -101,6 +101,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -164,6 +165,7 @@
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [2048-build-array-from-permutation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3379-score-of-a-string) |
 ## Enumeration
