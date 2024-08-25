@@ -183,6 +183,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
+| [3379-score-of-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3379-score-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
