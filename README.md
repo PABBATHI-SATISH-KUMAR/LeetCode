@@ -108,6 +108,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
+| [3104-happy-students](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3104-happy-students) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0204-count-primes) |
+| [3104-happy-students](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3104-happy-students) |
 ## Number Theory
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
+| [3104-happy-students](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3104-happy-students) |
 ## Greedy
 |  |
 | ------- |
