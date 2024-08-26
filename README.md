@@ -109,6 +109,7 @@
 | [2301-count-array-pairs-divisible-by-k](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [3104-happy-students](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3104-happy-students) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
