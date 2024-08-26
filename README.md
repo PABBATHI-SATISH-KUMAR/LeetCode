@@ -28,6 +28,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2383-add-two-integers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2383-add-two-integers) |
+| [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -188,6 +189,7 @@
 | [1944-truncate-sentence](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
+| [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
 | [3379-score-of-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3379-score-of-a-string) |
 ## Enumeration
 |  |
@@ -245,6 +247,7 @@
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
+| [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
 ## Sorting
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
 ## Stack
 |  |
 | ------- |
@@ -323,4 +327,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
 <!---LeetCode Topics End-->
