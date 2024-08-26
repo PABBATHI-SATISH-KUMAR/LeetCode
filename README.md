@@ -108,6 +108,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
@@ -252,6 +253,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sorting
 |  |
