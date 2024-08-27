@@ -85,6 +85,7 @@
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1137-height-checker) |
 | [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
@@ -270,6 +271,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1946-minimum-absolute-sum-difference](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -342,4 +344,8 @@
 |  |
 | ------- |
 | [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
