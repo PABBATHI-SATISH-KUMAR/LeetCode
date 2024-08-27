@@ -111,6 +111,7 @@
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [3104-happy-students](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3104-happy-students) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+| [3226-minimum-number-game](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3226-minimum-number-game) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -175,6 +176,7 @@
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [2048-build-array-from-permutation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3226-minimum-number-game](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [3104-happy-students](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3104-happy-students) |
+| [3226-minimum-number-game](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
+| [3226-minimum-number-game](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3226-minimum-number-game) |
 ## Game Theory
 |  |
 | ------- |
