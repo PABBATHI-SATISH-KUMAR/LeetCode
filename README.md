@@ -148,6 +148,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1321-get-equal-substrings-within-budget](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1946-minimum-absolute-sum-difference](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -201,6 +202,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0742-to-lower-case) |
+| [1321-get-equal-substrings-within-budget](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
@@ -304,6 +307,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
