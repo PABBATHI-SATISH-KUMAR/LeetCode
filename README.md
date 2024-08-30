@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
@@ -207,6 +209,7 @@
 | [0179-largest-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0680-valid-palindrome-ii) |
