@@ -14,6 +14,7 @@
 | [0069-sqrtx](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -169,6 +170,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -264,6 +266,7 @@
 | [0013-roman-to-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
