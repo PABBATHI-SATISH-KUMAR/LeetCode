@@ -32,6 +32,7 @@
 | [2301-count-array-pairs-divisible-by-k](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2383-add-two-integers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2383-add-two-integers) |
 | [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
+| [2752-sum-multiples](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2752-sum-multiples) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
