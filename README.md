@@ -223,6 +223,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1944-truncate-sentence) |
+| [1970-sorting-the-sentence](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
@@ -309,6 +310,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1946-minimum-absolute-sum-difference](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-sorting-the-sentence](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
