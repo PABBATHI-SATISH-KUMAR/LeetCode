@@ -96,6 +96,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -218,6 +219,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0742-to-lower-case) |
+| [0822-unique-morse-code-words](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1321-get-equal-substrings-within-budget](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -283,6 +285,7 @@
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0822-unique-morse-code-words](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
