@@ -41,6 +41,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
