@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0204-count-primes) |
@@ -81,6 +82,7 @@
 | [0075-sort-colors](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
@@ -282,6 +284,7 @@
 | [0001-two-sum](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0242-valid-anagram) |
@@ -395,4 +398,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1137-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
