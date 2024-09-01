@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0066-plus-one) |
@@ -45,6 +46,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0231-power-of-two) |
