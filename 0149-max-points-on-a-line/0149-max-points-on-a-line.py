@@ -1,22 +1,17 @@
 class Solution:
     def maxPoints(self, points: List[List[int]]) -> int:
-        n=len(points)
-        d={}
-        for i in range(n):
-            x,y=points[i][0],points[i][1]
-            for j in range(i+1,n):
-                x1=x-points[j][0]
-                y1=y-points[j][1]
-                b=x1*y-y1*x
-                d[(y1,x1,b)]=0
-        for i in range(n):
-            x,y=points[i][0],points[i][1]
-            for j in d:
-                if j[1]*y==j[0]*x+j[2]:
-                        d[j]+=1
-        m=1
-        for x in d:
-            m=max(m,d[x])
-        return m
-
-                    
+        if len(points) == 1:
+            return 1
+        res = 2
+        for p1 in points:
+            counter = defaultdict(int)
+            for p2 in points:
+                if p1 != p2:
+                    x1, y1 = p1
+                    x2, y2 = p2
+                    if x1 == x2:
+                        counter["inf"] += 1
+                    else:
+                        counter[(y2 - y1) / (x2 - x1)] += 1
+            res = max(res, max(counter.values()) + 1)
+        return res
