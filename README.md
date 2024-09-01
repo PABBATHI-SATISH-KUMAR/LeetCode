@@ -130,6 +130,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3104-happy-students](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3104-happy-students) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3226-minimum-number-game](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3226-minimum-number-game) |
@@ -231,6 +232,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2502-sort-the-people) |
 | [2605-count-anagrams](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2605-count-anagrams) |
+| [2727-number-of-senior-citizens](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3379-score-of-a-string) |
 ## Enumeration
 |  |
