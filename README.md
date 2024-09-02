@@ -224,6 +224,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1321-get-equal-substrings-within-budget](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
@@ -402,4 +403,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0149-max-points-on-a-line) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
