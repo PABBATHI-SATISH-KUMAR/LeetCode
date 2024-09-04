@@ -104,6 +104,7 @@
 | [0822-unique-morse-code-words](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0944-smallest-range-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -205,6 +206,7 @@
 | [0412-fizz-buzz](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1505-create-target-array-in-the-given-order](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -299,6 +301,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0822-unique-morse-code-words](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0906-walking-robot-simulation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
