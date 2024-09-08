@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
@@ -225,6 +228,7 @@
 | [0020-valid-parentheses](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0179-largest-number) |
