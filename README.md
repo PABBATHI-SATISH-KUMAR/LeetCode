@@ -186,6 +186,7 @@
 | [0016-3sum-closest](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0125-valid-palindrome) |
@@ -226,6 +227,7 @@
 | [0013-roman-to-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0067-add-binary) |
@@ -426,5 +428,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
