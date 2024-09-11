@@ -63,6 +63,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Trie
 |  |
