@@ -18,6 +18,7 @@ class Solution {
             prevnode = currnode;
             currnode = nextnode;
         }
-        return prevnode; 
+        head = prevnode;
+        return head; 
     }
 }
