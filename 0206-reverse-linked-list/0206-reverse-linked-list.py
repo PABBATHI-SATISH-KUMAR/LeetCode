@@ -12,5 +12,5 @@ class Solution:
             currnode.next = prevnode
             prevnode = currnode
             currnode = nextnode
-        head = prevnode
-        return head
+       
+        return prevnode
