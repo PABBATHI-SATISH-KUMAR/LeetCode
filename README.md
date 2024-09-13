@@ -106,6 +106,7 @@
 | [0485-max-consecutive-ones](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
@@ -344,6 +345,7 @@
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1137-height-checker) |
@@ -413,6 +415,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0506-relative-ranks) |
 | [3226-minimum-number-game](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/3226-minimum-number-game) |
 ## Game Theory
 |  |
