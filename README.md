@@ -109,6 +109,7 @@
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0575-distribute-candies) |
 | [0624-maximum-distance-in-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
@@ -325,6 +326,7 @@
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0906-walking-robot-simulation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
