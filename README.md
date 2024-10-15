@@ -25,6 +25,7 @@
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0650-2-keys-keyboard) |
