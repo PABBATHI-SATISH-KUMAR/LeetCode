@@ -33,6 +33,7 @@
 | [0944-smallest-range-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -123,6 +124,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1137-height-checker) |
 | [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -453,6 +455,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## String Matching
 |  |
 | ------- |
