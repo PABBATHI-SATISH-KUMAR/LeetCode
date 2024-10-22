@@ -30,6 +30,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0755-reach-a-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0755-reach-a-number) |
 | [0944-smallest-range-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1240-stone-game-ii) |
@@ -186,6 +187,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0755-reach-a-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
