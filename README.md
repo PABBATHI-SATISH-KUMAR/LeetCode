@@ -23,6 +23,7 @@
 | [0264-ugly-number-ii](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0507-perfect-number) |
@@ -62,6 +63,7 @@
 | [0231-power-of-two](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0861-flipping-an-image) |
 ## Recursion
@@ -71,6 +73,7 @@
 | [0050-powx-n](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
