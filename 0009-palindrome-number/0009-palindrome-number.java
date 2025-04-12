@@ -4,9 +4,7 @@ class Solution {
         int rem,temp,rev;
         temp = n;
         rev=0;
-        if(n<0){
-            return false;
-        }
+        if(n<0) return false;
         while(n>0){
                 rem = n%10;
                 rev = rev*10+rem;
