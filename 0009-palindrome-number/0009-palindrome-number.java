@@ -12,12 +12,7 @@ class Solution {
                 rev = rev*10+rem;
                 n = n/10;
         }
-        if(temp==rev){
-            return true;
-        }
-        else{
-            return false;
-        }
-        
+        if(temp==rev) return true;
+        else return false;
     }
 }
