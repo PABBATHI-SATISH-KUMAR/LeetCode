@@ -128,6 +128,7 @@
 | [0898-transpose-matrix](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0944-smallest-range-i](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1137-height-checker) |
@@ -196,6 +197,7 @@
 | [0755-reach-a-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1321-get-equal-substrings-within-budget](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1946-minimum-absolute-sum-difference](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -343,6 +345,7 @@
 | [0575-distribute-candies](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0906-walking-robot-simulation](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0924-fair-candy-swap](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -369,6 +372,7 @@
 | [0506-relative-ranks](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
