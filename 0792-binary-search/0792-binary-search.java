@@ -1,6 +1,6 @@
 class Solution {
     public int search(int[] arr, int target) {
-        int start = 0;
+    int start = 0;
     int end = arr.length - 1;
     boolean isAsc = arr[start] < arr[end];
 
